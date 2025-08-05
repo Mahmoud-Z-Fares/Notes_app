@@ -9,16 +9,6 @@ A simple and efficient Flutter application that allows users to write, save, and
 - Beautiful and responsive UI.
 - Lightweight and fast.
 
-## 📸 Screenshots
-
-### 🏠 Home Screen
-![Home Screen](assets/Notes.png)
-
-### ➕ Add Note
-![Add Note](assets/addNote.png)
-
-### ✏️ Edit Note
-![Edit Note](assets/editeNotes.png)
 
 ## 🚀 Getting Started
 
